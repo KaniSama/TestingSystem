@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tests.Reg" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAgAAACAAAADIAACICACCAAIgECDAIAAAIBBAAEI=</HashCode>
+      <FileName>Reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tests.TestBody" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAACiAAACBAIACIAAICAAUAAAAAAEAAAABQAAI=</HashCode>
+      <FileName>TestBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tests.TestStart" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAACAAAABAAACACAACAAAAgAAAAAAAAABhAAA=</HashCode>
+      <FileName>TestStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tests.UserForm" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAABgBAAKAQABBAAACAAAACAIAQAAAAAAAAABAABAA=</HashCode>
+      <FileName>UserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tests.Auth" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MACCAgAgEqQAAJiIAACACIDDAAIgECDIMAAQIBBBDEA=</HashCode>
+      <FileName>Auth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
